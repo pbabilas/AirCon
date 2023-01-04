@@ -1,5 +1,5 @@
 {
-  "name": "Home Assistant Add-on: HiSense Air Conditioners",
+  "name": "Home Assistant Add-on: HiSense Air Conditioners Fork",
   "url": "https://github.com/pbabilas/AirCon",
-  "maintainer": "Dror Eiger <droreiger@gmail.com>"
+  "maintainer": "Dror Eiger <droreiger@gmail.com> Forked bny Paweł Babilas <pawel.babilas@gmail.com>"
 }
